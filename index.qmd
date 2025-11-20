@@ -2,6 +2,8 @@
 title: "Hidalgo Research Consulting"
 ---
 
+![](hidalgo_consulting.jpeg){fig-align="center" width="100%" style="max-width: 1200px; margin-bottom: 2rem;"}
+
 ## Survey Research & Digital Recruitment
 
 Hidalgo Research Consulting provides research consulting services specializing in survey methodology and digital recruitment strategies.
