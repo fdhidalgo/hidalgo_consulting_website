@@ -1,0 +1,65 @@
+---
+title: "F. Daniel Hidalgo"
+about:
+  template: solana
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:contact@hidalgoresearch.com
+    - icon: globe
+      text: Academic Website
+      href: https://www.dhidalgo.me/
+    - icon: linkedin
+      text: MIT Profile
+      href: https://polisci.mit.edu/people/f-daniel-hidalgo
+    - icon: geo-alt
+      text: Cambridge, MA
+---
+
+## About
+
+F. Daniel Hidalgo is an Associate Professor of Political Science (with tenure) at the Massachusetts Institute of Technology, where he has been a faculty member since 2012. He earned his Ph.D. from the University of California at Berkeley in 2012 and his B.A. *Magna cum Laude* from Princeton University in 2002.
+
+## Research Expertise
+
+Professor Hidalgo's research focuses on comparative politics and political methodology, with particular expertise in:
+
+- Electoral accountability and political representation
+- Survey research methods and experimental design
+- Digital recruitment strategies for hard-to-reach populations
+- Latin American politics, with extensive fieldwork in Brazil
+- Causal inference and quantitative methods
+
+His work has been published in leading journals including the *American Journal of Political Science*, *Journal of Politics*, *American Political Science Review*, *British Journal of Political Science*, and *Comparative Political Studies*. He received the 2017 James Caporaso Best Paper award and the 2014 Kellogg/Notre Dame Award for best paper in comparative politics.
+
+## Professional Service
+
+- **Member, Editorial Board**, *American Political Science Review* (2024-present)
+- **Global Advisor**, Polarization Research Lab (2023-present)
+- **Associated Faculty**, MIT Center for International Studies (2023-present)
+- **Affiliate**, MIT Institute for Data, Systems, and Society (2024-2026)
+- **Former Academic Director**, MIT GOV/LAB (2019-2023)
+
+## Hidalgo Research Consulting
+
+Hidalgo Research Consulting provides specialized research consulting services focused on survey methodology and digital recruitment for Latin American populations. Services include:
+
+- Social media advertising for survey recruitment (Meta platforms, WhatsApp Business API)
+- Stratified sampling and adaptive quota management
+- Multi-country survey projects in Latin American contexts
+- Multilingual survey implementation
+- Digital recruitment strategies for complex populations
+
+Professor Hidalgo brings over 15 years of experience conducting field experiments and surveys in Latin America, with fluency in Spanish and Portuguese.
+
+## Contact Information
+
+**Consulting Email:** [contact@hidalgoresearch.com](mailto:contact@hidalgoresearch.com)
+
+**Academic Email:** [dhidalgo@mit.edu](mailto:dhidalgo@mit.edu)
+
+**Office:** MIT Political Science Department, 77 Massachusetts Avenue, Room E53-470, Cambridge, MA 02139
+
+**Phone:** [510-708-7777](tel:510-708-7777)
+
+For academic publications and research, visit [dhidalgo.me](https://www.dhidalgo.me/).

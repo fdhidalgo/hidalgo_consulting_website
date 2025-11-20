@@ -1,0 +1,6 @@
+/.quarto/
+/_site/
+
+**/*.quarto_ipynb
+
+# Note: /docs/ is NOT ignored because it contains the rendered site for GitHub Pages
