@@ -1,5 +1,5 @@
 ---
-title: "Hidalgo Research Consulting"
+title: "Hidalgo Research"
 ---
 
 ![](hidalgo_consulting.jpeg){fig-align="center" width="100%" style="max-width: 1200px; margin-bottom: 2rem;"}

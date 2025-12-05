@@ -13,7 +13,7 @@ website:
       - href: about.qmd
         text: About
   page-footer:
-    center: "© 2025 Hidalgo Research Consulting. All rights reserved."
+    center: "© 2025 Hidalgo Research | Hidalgo Research Consulting. All rights reserved."
 
 format:
   html:
