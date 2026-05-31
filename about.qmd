@@ -5,7 +5,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:contact@hidalgoresearch.com
+      href: mailto:contact@hidalgo-research.com
     - icon: globe
       text: Academic Website
       href: https://www.dhidalgo.me/
